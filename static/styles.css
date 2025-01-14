@@ -50,7 +50,7 @@ canvas {
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-image: url('background tugas 10.jpg');
+    background-image: url('/static/background%20tugas%2010.jpg');
     backdrop-filter: blur(4px);
     display: flex;
     justify-content: center;
